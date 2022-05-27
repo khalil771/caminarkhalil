@@ -1,0 +1,48 @@
+body{
+    background-image: url(/public/images/bg.jpg);
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+:root .blanc{
+    color: white;
+}
+:root .blanc2 {
+    background-color: white;
+    
+}
+:root  .blanc2 p{
+    color: rgba(201,202,218,255);
+}
+:root .para2{
+background-color: rgba(248,247,245,255);
+}
+:root .para2 p{
+    color: rgba(165,165,173,255);
+}
+:root .para3{
+    background-color:rgba(18,19,21,255);
+    color: white;
+}
+
+:root .para3 p{
+    color: grey;
+}
+:root .para5 {
+background-color: white;
+}
+:root .para5 h2{
+    color: black;
+}
+:root .para6{
+    background-color: rgba(30,31,35,255);
+}
+:root .para6 h2{
+    color: white;
+}
+:root .logo {
+    color: grey;
+    font-size: 30px;
+}
+:root .txt{
+    color: grey;
+}
